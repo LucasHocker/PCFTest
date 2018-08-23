@@ -1,6 +1,6 @@
 ---
 applications:
-- name: devops-lucas-app-stage
+- name: devops-sample-app-stage-workshop01
   memory: 256M
   instances: 1
 #  host: devops-sample-app
